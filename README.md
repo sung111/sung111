@@ -1,8 +1,9 @@
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sung111&layout=compact) -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=HyeSung%20GitHub&fontColor=000000)
 
-<h3 align="center">👋Hello World👋</h3>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sung111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></div>
+<div align="center">
+	
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&text=👋Hello%20World👋&animation=blinking)
+ 
+</div>
 
 <hr>
 
@@ -70,6 +71,6 @@
 <h3>🏆trophy🏆</h3>
 	
 [![trophy](https://github-profile-trophy.vercel.app/?username=sung111&color=black)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sung111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
     
