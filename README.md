@@ -1,7 +1,7 @@
 
 <div align="center">
 	
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&text=👋Hello%20World👋&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&text=👋Hello%20World!👋&animation=blinking)
  
 </div>
 
