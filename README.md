@@ -70,7 +70,7 @@
 <div align= "center">
 <h3>🏆trophy🏆</h3>
 	
-[![trophy](https://github-profile-trophy.vercel.app/?username=sung111&color=black)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sung111&color=black)](https://github.com/ryo-ma/github-profile-trophy) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sung111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
     
